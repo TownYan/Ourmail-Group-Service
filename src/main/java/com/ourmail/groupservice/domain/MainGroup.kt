@@ -6,11 +6,14 @@ import javax.persistence.GenerationType
 import javax.persistence.Id
 
 @Entity
-class Folder {
+class MainGroup {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    var id = 0L;
-    var upid = 0L;
-    var name = "";
-    var type = 0L;
+    var id=0L;
+    var groupname="";
+    var grouppassword="";
+    var mail="";
+    var groupownerid=0L;
+    var createdata="";
+    var createuser=0L;
 }

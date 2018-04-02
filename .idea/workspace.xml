@@ -1,0 +1,1300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b64fa29-58b8-4ff1-a49f-013ec48a462d" name="默认的" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/GetGroupInformationById.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MainGroup.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/MainGroupRepository.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/GetGroupInformationByIdImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Group.kt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MemberGroup.kt" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MemberGroup.kt" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/Grouprepository.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BuildNewGroup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildNewGroupImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainGroup.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MainGroup.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="e#41#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainGroupRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/MainGroupRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Folder.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#41#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberGroup.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MemberGroup.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupserviceApplicationTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetGroupInformationById.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/GetGroupInformationById.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetGroupInformationByIdImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/GetGroupInformationByIdImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../src/main/java/hello" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/buildNewGroupImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/buildNewGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/userservice/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/Grouprepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Group.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MemberGroup.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Group.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/GroupRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/GetGroupInformationById.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/GetGroupInformationByIdImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MainGroup.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/MainGroupRepository.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="753" />
+    <option name="y" value="45" />
+    <option name="width" value="999" />
+    <option name="height" value="999" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringKotlinAutowiring</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ourmail" type="462c0819:PsiDirectoryNode" />
+              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="contract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="groupservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groupservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../项目/Ourmail-Group-Service-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ourmail.groupservice.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ourmail.groupservice.repository" />
+      <recent name="com.ourmail.userservice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GroupserviceApplicationTests">
+    <configuration default="true" type="Applet" factoryName="小应用程序">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="应用程序">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="GroupserviceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ourmail.groupservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="groupservice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ourmail.groupservice" />
+      <option name="MAIN_CLASS_NAME" value="com.ourmail.groupservice.GroupserviceApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GroupserviceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ourmail.groupservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="groupservice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ourmail.groupservice" />
+      <option name="MAIN_CLASS_NAME" value="com.ourmail.groupservice.GroupserviceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="GroupserviceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ourmail.groupservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="groupservice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ourmail.groupservice" />
+      <option name="MAIN_CLASS_NAME" value="com.ourmail.groupservice.GroupserviceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="远程">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="GroupserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ourmail.groupservice.GroupserviceApplication" />
+      <module name="groupservice" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.GroupserviceApplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.GroupserviceApplicationTests" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.GroupserviceApplicationTests.contextLoads" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.GroupserviceApplicationTests" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.GroupserviceApplicationTests.contextLoads" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GroupserviceApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b64fa29-58b8-4ff1-a49f-013ec48a462d" name="默认的" comment="" />
+      <created>1522330170417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522330170417</updated>
+      <workItem from="1522330185526" duration="4130000" />
+      <workItem from="1522566042796" duration="8532000" />
+      <workItem from="1522574985008" duration="325000" />
+      <workItem from="1522575589005" duration="126000" />
+      <workItem from="1522578923283" duration="6312000" />
+      <workItem from="1522585271091" duration="97000" />
+      <workItem from="1522586038841" duration="5639000" />
+      <workItem from="1522642519817" duration="3978000" />
+      <workItem from="1522662276431" duration="11339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 20h 17m 01s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 20h 19m 48s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 20h 20m 21s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 20h 21m 46s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 20h 29m 36s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 21h 06m 34s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 21h 14m 31s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 21h 14m 54s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 21h 16m 42s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GroupserviceApplicationTests - 2018.04.02 at 21h 18m 47s.xml">
+      <configuration name="GroupserviceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40478000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="753" y="45" width="999" height="999" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="设计师" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="消息" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34669557" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29330254" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="控制板" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27902022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#41#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="76" lean-forward="false" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1806">
+          <caret line="86" column="21" lean-forward="false" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="55" lean-forward="false" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Test.kt" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1806">
+          <caret line="86" column="21" lean-forward="true" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MainGroup.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MemberGroup.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/GroupRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Test.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Group.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar!/org/springframework/test/context/support/DefaultTestContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/fuck.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/GroupserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#419#420#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Foldere.kt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="333" column="0" lean-forward="false" selection-start-line="333" selection-start-column="0" selection-end-line="333" selection-end-column="0" />
+          <folding>
+            <marker date="1522330556615" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522330556615" expanded="false" signature="133:343" ph="..." />
+            <marker date="1522330556615" expanded="true" signature="390:397" ph="{}" />
+            <marker date="1522330556615" expanded="true" signature="468:539" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="593:604" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="640:646" ph=" }" />
+            <marker date="1522330556615" expanded="false" signature="717:728" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="760:766" ph=" }" />
+            <marker date="1522330556615" expanded="false" signature="821:832" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="869:875" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="921:1073" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="1104:1115" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="1134:1140" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="1226:1627" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="1708:1856" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="1925:1936" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="1967:1973" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="2043:2120" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="2211:2325" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="2400:2466" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="2534:2760" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="2847:2942" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="3013:3079" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="3184:3304" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="3393:3466" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="3552:3625" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="3752:3817" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="3898:3986" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="4115:4180" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="4263:4353" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="4476:4541" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="4618:4702" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="4825:4890" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="4967:5051" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="5176:5241" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="5320:5406" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="5527:5592" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="5667:5749" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="5872:5937" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="6014:6098" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="6239:6335" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="6430:6505" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="6643:6739" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="6831:6906" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="7032:7121" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="7221:7351" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="7448:7577" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="7679:7798" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="7881:8030" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="8109:8257" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="8322:8333" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="8378:8384" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="8466:8572" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="8578:8596" ph="/**...*/" />
+            <marker date="1522330556615" expanded="false" signature="8680:8691" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="8736:8742" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="8748:8766" ph="/**...*/" />
+            <marker date="1522330556615" expanded="true" signature="8867:8967" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="9051:9119" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="9200:9268" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="9337:9348" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="9384:9390" ph=" }" />
+            <marker date="1522330556615" expanded="false" signature="9443:9454" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="9490:9496" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="9563:9652" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="9702:9713" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="9746:9752" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="9821:10009" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="10093:10196" ph="{...}" />
+            <marker date="1522330556615" expanded="false" signature="10263:10274" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="10317:10323" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="10412:10497" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="10570:10634" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="10685:10851" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="10937:11143" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="11231:11287" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="11362:11883" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="11965:12104" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="12110:12128" ph="/**...*/" />
+            <marker date="1522330556615" expanded="true" signature="12235:12298" ph="{...}" />
+            <marker date="1522330556615" expanded="true" signature="12304:12322" ph="/**...*/" />
+            <marker date="1522330556615" expanded="false" signature="12412:12423" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="12461:12467" ph=" }" />
+            <marker date="1522330556615" expanded="false" signature="12544:12555" ph=" { " />
+            <marker date="1522330556615" expanded="false" signature="12587:12593" ph=" }" />
+            <marker date="1522330556615" expanded="true" signature="12686:12752" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar!/org/springframework/test/context/junit4/statements/SpringRepeat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1522330468746" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522330468746" expanded="false" signature="174:390" ph="..." />
+            <marker date="1522330468746" expanded="true" signature="678:765" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="838:952" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="998:1337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1522330468746" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522330468746" expanded="false" signature="174:268" ph="..." />
+            <marker date="1522330468746" expanded="true" signature="517:604" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="650:738" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1522330468746" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522330468746" expanded="false" signature="174:353" ph="..." />
+            <marker date="1522330468746" expanded="true" signature="600:687" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="733:1107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <marker date="1522330468746" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1522330468746" expanded="false" signature="163:2148" ph="..." />
+            <marker date="1522330468746" expanded="true" signature="2490:3255" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="2747:2944" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="3037:3236" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="3335:3626" ph="{...}" />
+            <marker date="1522330468746" expanded="false" signature="3701:3712" ph=" { " />
+            <marker date="1522330468746" expanded="false" signature="3749:3755" ph=" }" />
+            <marker date="1522330468746" expanded="false" signature="3819:3830" ph=" { " />
+            <marker date="1522330468746" expanded="false" signature="3861:3867" ph=" }" />
+            <marker date="1522330468746" expanded="true" signature="3909:4116" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="4160:4389" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="4454:4634" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="4698:4874" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="4927:5085" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="5170:5664" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="5735:6933" ph="{...}" />
+            <marker date="1522330468746" expanded="false" signature="5808:5906" ph="runReflectiveCall() -&gt; {" />
+            <marker date="1522330468746" expanded="false" signature="5989:6008" ph="}" />
+            <marker date="1522330468746" expanded="true" signature="7054:7301" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="7378:7592" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="7716:7931" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="8042:8205" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="8322:9328" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="9398:9548" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="9619:9702" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="9836:9979" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="10112:10254" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="10367:10604" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="10716:10949" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="11065:11140" ph="{...}" />
+            <marker date="1522330468746" expanded="true" signature="11153:11683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1784">
+          <caret line="92" column="48" lean-forward="true" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/Folder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#41#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/GroupRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MemberGroup.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/userservice/contract/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/BuildNewGroupImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/BuildNewGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/contract/GetGroupInformationById.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/service/GetGroupInformationByIdImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/domain/MainGroup.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#41#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ourmail/groupservice/repository/MainGroupRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ourmail/groupservice/GroupserviceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|groupservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
