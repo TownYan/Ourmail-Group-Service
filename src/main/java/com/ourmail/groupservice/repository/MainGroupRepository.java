@@ -8,5 +8,5 @@ import java.util.List;
 
 @Repository
 public interface MainGroupRepository extends CrudRepository<MainGroup, Long> {
-    long findGroupowneridById(long id);
+    long findGroupOwnerIdById(long id);
 }

@@ -17,6 +17,6 @@ public class GetGroupInformationByIdImpl implements GetGroupInformationById {
 
     @Override
     public long getGroupOwnerId(long groupID) {
-        return mainGroupRepository.findGroupowneridById(groupID);
+        return mainGroupRepository.findGroupOwnerIdById(groupID);
     }
 }
