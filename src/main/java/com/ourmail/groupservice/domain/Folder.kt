@@ -10,7 +10,7 @@ class Folder {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     var id = 0L;
-    var upid = 0L;
+    var upId = 0L;
     var name = "";
     var type = 0L;
 }

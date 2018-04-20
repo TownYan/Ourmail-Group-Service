@@ -10,10 +10,10 @@ class MainGroup {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     var id=0L;
-    var groupname="";
-    var grouppassword="";
-    var mail="";
-    var groupownerid=0L;
-    var createdata="";
-    var createuser=0L;
+    var groupName="";
+    var groupPassword="";
+    var groupAddress="";
+    var groupOwnerId=0L;
+    var createDate=0L;
+    var createUser=0L;
 }

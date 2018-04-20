@@ -9,7 +9,7 @@ import javax.persistence.Id
 class MemberGroup {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    var id = 0L;
+    var memberGroupId = 0L;
     var groupid = 0L;
     var membergroupname = "";
 }
